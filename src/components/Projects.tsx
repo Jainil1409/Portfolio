@@ -8,7 +8,7 @@ export default function Projects() {
       description: 'A comprehensive full-stack platform for discovering and booking trekking adventures with user authentication and booking management.',
       tech: ['React', 'Node.js', 'MongoDB', 'HTML', 'CSS'],
       image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&q=80',
-      link: '#',
+      link: 'https://soul-trekker-the-trekking-website.vercel.app/',
       status: 'Featured',
     },
     {
